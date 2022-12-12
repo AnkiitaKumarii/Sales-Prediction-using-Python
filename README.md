@@ -6,7 +6,7 @@ Licence = The above information is publically for all.
 
 **Meta Data Information**
 
-Website Link: https://www.kaggle.com/datasets/uniabhi/bigmart-sales-data
+Dataset Link: https://www.kaggle.com/datasets/uniabhi/bigmart-sales-data
 
 I have have downloaded the dataset of Big Mart Sales from kaggle.
 
