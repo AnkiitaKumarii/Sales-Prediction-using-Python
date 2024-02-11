@@ -1,6 +1,6 @@
 # Sales-Prediction-using-Python
 
-Author = Ankita Kumari
+Author = Ankita Kumarii
 
 Licence = The above information is publically for all.
 
